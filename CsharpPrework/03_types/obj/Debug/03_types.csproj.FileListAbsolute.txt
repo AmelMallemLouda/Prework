@@ -1,0 +1,6 @@
+C:\Users\Louda\Desktop\Amelelevenfiftyproject2\CsharpPrework\03_types\bin\Debug\03_types.exe.config
+C:\Users\Louda\Desktop\Amelelevenfiftyproject2\CsharpPrework\03_types\bin\Debug\03_types.exe
+C:\Users\Louda\Desktop\Amelelevenfiftyproject2\CsharpPrework\03_types\bin\Debug\03_types.pdb
+C:\Users\Louda\Desktop\Amelelevenfiftyproject2\CsharpPrework\03_types\obj\Debug\03_types.csproj.CoreCompileInputs.cache
+C:\Users\Louda\Desktop\Amelelevenfiftyproject2\CsharpPrework\03_types\obj\Debug\03_types.exe
+C:\Users\Louda\Desktop\Amelelevenfiftyproject2\CsharpPrework\03_types\obj\Debug\03_types.pdb

@@ -1,0 +1,6 @@
+C:\Users\Louda\Desktop\Amelelevenfiftyproject2\CsharpPrework\04-operators\obj\Debug\04-operators.csproj.CoreCompileInputs.cache
+C:\Users\Louda\Desktop\Amelelevenfiftyproject2\CsharpPrework\04-operators\bin\Debug\04-operators.exe.config
+C:\Users\Louda\Desktop\Amelelevenfiftyproject2\CsharpPrework\04-operators\bin\Debug\04-operators.exe
+C:\Users\Louda\Desktop\Amelelevenfiftyproject2\CsharpPrework\04-operators\bin\Debug\04-operators.pdb
+C:\Users\Louda\Desktop\Amelelevenfiftyproject2\CsharpPrework\04-operators\obj\Debug\04-operators.exe
+C:\Users\Louda\Desktop\Amelelevenfiftyproject2\CsharpPrework\04-operators\obj\Debug\04-operators.pdb

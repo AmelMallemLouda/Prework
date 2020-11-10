@@ -1,0 +1,7 @@
+C:\Users\Louda\Desktop\Amelelevenfiftyproject2\CsharpPrework\02-VARIABLES\02-VARIABLES\bin\Debug\02-VARIABLES.exe.config
+C:\Users\Louda\Desktop\Amelelevenfiftyproject2\CsharpPrework\02-VARIABLES\02-VARIABLES\bin\Debug\02-VARIABLES.exe
+C:\Users\Louda\Desktop\Amelelevenfiftyproject2\CsharpPrework\02-VARIABLES\02-VARIABLES\bin\Debug\02-VARIABLES.pdb
+C:\Users\Louda\Desktop\Amelelevenfiftyproject2\CsharpPrework\02-VARIABLES\02-VARIABLES\obj\Debug\02-VARIABLES.csprojAssemblyReference.cache
+C:\Users\Louda\Desktop\Amelelevenfiftyproject2\CsharpPrework\02-VARIABLES\02-VARIABLES\obj\Debug\02-VARIABLES.csproj.CoreCompileInputs.cache
+C:\Users\Louda\Desktop\Amelelevenfiftyproject2\CsharpPrework\02-VARIABLES\02-VARIABLES\obj\Debug\02-VARIABLES.exe
+C:\Users\Louda\Desktop\Amelelevenfiftyproject2\CsharpPrework\02-VARIABLES\02-VARIABLES\obj\Debug\02-VARIABLES.pdb

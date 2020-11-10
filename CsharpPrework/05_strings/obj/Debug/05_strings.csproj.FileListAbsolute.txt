@@ -1,0 +1,7 @@
+C:\Users\Louda\Desktop\Amelelevenfiftyproject2\CsharpPrework\05_strings\bin\Debug\05_strings.exe.config
+C:\Users\Louda\Desktop\Amelelevenfiftyproject2\CsharpPrework\05_strings\bin\Debug\05_strings.exe
+C:\Users\Louda\Desktop\Amelelevenfiftyproject2\CsharpPrework\05_strings\bin\Debug\05_strings.pdb
+C:\Users\Louda\Desktop\Amelelevenfiftyproject2\CsharpPrework\05_strings\obj\Debug\05_strings.csprojAssemblyReference.cache
+C:\Users\Louda\Desktop\Amelelevenfiftyproject2\CsharpPrework\05_strings\obj\Debug\05_strings.csproj.CoreCompileInputs.cache
+C:\Users\Louda\Desktop\Amelelevenfiftyproject2\CsharpPrework\05_strings\obj\Debug\05_strings.exe
+C:\Users\Louda\Desktop\Amelelevenfiftyproject2\CsharpPrework\05_strings\obj\Debug\05_strings.pdb
